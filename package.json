@@ -1,0 +1,22 @@
+{
+  "name": "sarahkcaplan",
+  "version": "1.0.0",
+  "description": "Sarah K Caplan portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "JS",
+    "Bootstrap",
+    "git"
+  ],
+  "author": "Sarah Caplan",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
